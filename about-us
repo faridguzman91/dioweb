@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html class="nojs html css_verticalspacer" lang="en-GB">
+ <head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="2017.0.1.363"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  
+  <script type="text/javascript">
+   // Update the 'nojs'/'js' class on the html node
+document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+// Check that all required assets are uploaded and up-to-date
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "about-us.css"], "outOfDate":[]};
+</script>
+  
+  <title>about us</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
+  <link rel="stylesheet" type="text/css" href="css/about-us.css?crc=4148259968" id="pagesheet"/>
+   </head>
+ <body>
+
+  <div class="clearfix borderbox" id="page"><!-- group -->
+   <!-- m_editable region-id="editable-static-tag-U8340-BP_infinity" template="about-us.html" data-type="image" -->
+   <div class="clip_frame grpelem" id="u8340" data-muse-uid="U8340" data-muse-type="img_frame"><!-- image -->
+    <img class="block" id="u8340_img" src="images/studio_1.gif?crc=4223541463" alt="" data-muse-src="images/studio_1.gif?crc=4223541463" data-image-width="619" data-image-height="621"/>
+   </div>
+   <!-- /m_editable -->
+   <img class="grpelem" id="u264-4" alt="about us" src="images/u264-4.png?crc=366278844" data-hidpi-src="images/u264-4_2x.png?crc=164034595" data-image-width="146"/><!-- rasterized frame -->
+   <img class="grpelem" id="u291-6" alt="Studio Dio is a small design agency, ran by two alumni of both the Instituto Buena Bista (Curacao, Netherlands Antilles) and the Royal Academy of Art, in The Hague. We strife to bring out our creativity in the form of film, animation, games, graphic and motion design, and like to contribute to society with our knowledge and skill. " src="images/u291-6.png?crc=3931280811" data-hidpi-src="images/u291-6_2x.png?crc=4008061493" data-image-width="528"/><!-- rasterized frame -->
+   <!-- m_editable region-id="editable-static-tag-U316-BP_infinity" template="about-us.html" data-type="image" -->
+   <div class="clip_frame grpelem" id="u316" data-muse-uid="U316" data-muse-type="img_frame"><!-- image -->
+    <img class="block" id="u316_img" src="images/asset%20343x32.png?crc=3952180170" data-hidpi-src="images/asset%20343x32_2x.png?crc=3849100451" alt="" data-muse-src="images/asset%20343x32.png?crc=3952180170" data-image-width="42" data-image-height="32"/>
+   </div>
+   <!-- /m_editable -->
+   <!-- m_editable region-id="editable-static-tag-U324-BP_infinity" template="about-us.html" data-type="image" -->
+   <div class="clip_frame grpelem" id="u324" data-muse-uid="U324" data-muse-type="img_frame"><!-- image -->
+    <img class="block" id="u324_img" src="images/asset%20448x39.png?crc=195115245" data-hidpi-src="images/asset%204_2x.png?crc=3883069926" alt="" data-muse-src="images/asset%20448x39.png?crc=195115245" data-image-width="47" data-image-height="39"/>
+   </div>
+   <!-- /m_editable -->
+   <!-- m_editable region-id="editable-static-tag-U336-BP_infinity" template="about-us.html" data-type="image" -->
+   <div class="clip_frame grpelem" id="u336" data-muse-uid="U336" data-muse-type="img_frame"><!-- image -->
+    <img class="block" id="u336_img" src="images/asset%203.png?crc=3849100451" data-hidpi-src="images/asset%203_2x.png?crc=3849100451" alt="" data-muse-src="images/asset%203.png?crc=3849100451" data-image-width="71" data-image-height="54"/>
+   </div>
+   <!-- /m_editable -->
+   <!-- m_editable region-id="editable-static-tag-U350-BP_infinity" template="about-us.html" data-type="image" -->
+   <div class="clip_frame grpelem" id="u350" data-muse-uid="U350" data-muse-type="img_frame"><!-- image -->
+    <img class="block" id="u350_img" src="images/asset%204.png?crc=3883069926" data-hidpi-src="images/asset%204_2x.png?crc=3883069926" alt="" data-muse-src="images/asset%204.png?crc=3883069926" data-image-width="73" data-image-height="60"/>
+   </div>
+   <!-- /m_editable -->
+   <a class="nonblock nontext grpelem" id="u393-4" href="work.html" data-href="page:U564"><!-- rasterized frame --><img id="u393-4_img" alt="work" src="images/u393-4.png?crc=3871848659" data-hidpi-src="images/u393-4_2x.png?crc=4120440496" data-image-width="89"/></a>
+   <a class="nonblock nontext grpelem" id="u396-4" href="news.html" data-href="page:U5011"><!-- rasterized frame --><img id="u396-4_img" alt="news" src="images/u396-4.png?crc=4156345831" data-hidpi-src="images/u396-4_2x.png?crc=3969582136" data-image-width="99"/></a>
+   <a class="nonblock nontext grpelem" id="u402-4" href="contact.html" data-href="page:U4826"><!-- rasterized frame --><img id="u402-4_img" alt="contact" src="images/u402-4.png?crc=160367109" data-hidpi-src="images/u402-4_2x.png?crc=305356974" data-image-width="106"/></a>
+   <!-- m_editable region-id="editable-static-tag-U533-BP_infinity" template="about-us.html" data-type="image" -->
+   <div class="rounded-corners clip_frame grpelem" id="u533" data-muse-uid="U533" data-muse-type="img_frame"><!-- image -->
+    <img class="block" id="u533_img" src="images/phpto%20fb-crop-u533.jpg?crc=4113598778" data-hidpi-src="images/phpto%20fb-crop-u533_2x.jpg?crc=3776420935" alt="" data-muse-src="images/phpto%20fb-crop-u533.jpg?crc=4113598778" data-image-width="179" data-image-height="176"/>
+   </div>
+   <!-- /m_editable -->
+   <!-- m_editable region-id="editable-static-tag-U536-BP_infinity" template="about-us.html" data-type="image" -->
+   <div class="rounded-corners clip_frame grpelem" id="u536" data-muse-uid="U536" data-muse-type="img_frame"><!-- image -->
+    <img class="block" id="u536_img" src="images/whatsapp%20image%202019-02-02%20at%20113213-crop-u536.jpg?crc=243299902" data-hidpi-src="images/whatsapp%20image%202019-02-02%20at%20113213-crop-u536_2x.jpg?crc=95981976" alt="" data-muse-src="images/whatsapp%20image%202019-02-02%20at%20113213-crop-u536.jpg?crc=243299902" data-image-width="187" data-image-height="178"/>
+   </div>
+   <!-- /m_editable -->
+   <img class="grpelem" id="u1094-4" alt="Farid Guzman" src="images/u1094-4.png?crc=4177820805" data-hidpi-src="images/u1094-4_2x.png?crc=4275518342" data-image-width="118"/><!-- rasterized frame -->
+   <img class="grpelem" id="u1100-4" alt="Elvis Chen" src="images/u1100-4.png?crc=237499356" data-hidpi-src="images/u1100-4_2x.png?crc=428891939" data-image-width="118"/><!-- rasterized frame -->
+   <!-- m_editable region-id="editable-static-tag-U5158-BP_infinity" template="about-us.html" data-type="image" data-ice-options="clickable" data-ice-editable="link" -->
+   <a class="nonblock nontext clip_frame grpelem" id="u5158" href="index.html" data-href="page:U93" data-muse-uid="U5158" data-muse-type="img_frame"><!-- image --><img class="block" id="u5158_img" src="images/studio_full2.gif?crc=527801048" data-hidpi-src="images/studio_full2_2x.gif?crc=527801048" alt="" data-muse-src="images/studio_full2.gif?crc=527801048" data-image-width="359" data-image-height="173"/></a>
+   <!-- /m_editable -->
+   <a class="nonblock nontext grpelem" id="u5854" href="installations.html" data-href="page:U731"><!-- state-based BG images --><div id="u5854_states"><img alt="installations" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
+   <a class="nonblock nontext grpelem" id="u5855" href="animations.html" data-href="page:U743"><!-- state-based BG images --><div id="u5855_states"><img alt="animations" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
+   <a class="nonblock nontext grpelem" id="u5856" href="3d.html" data-href="page:U755"><!-- state-based BG images --><div id="u5856_states"><img alt="3d " src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
+   <a class="nonblock nontext grpelem" id="u5857" href="digital-art.html" data-href="page:U767"><!-- state-based BG images --><div id="u5857_states"><img alt="digital" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
+   <a class="nonblock nontext grpelem" id="u6037" href="film.html" data-href="page:U5432"><!-- state-based BG images --><div id="u6037_states"><img alt="film" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
+   <!-- m_editable region-id="editable-static-tag-U7942-BP_infinity" template="about-us.html" data-type="image" -->
+   <div class="clip_frame grpelem" id="u7942" data-muse-uid="U7942" data-muse-type="img_frame"><!-- image -->
+    <img class="block" id="u7942_img" src="images/untitled-1.png?crc=4062233613" data-hidpi-src="images/untitled-1_2x.png?crc=341846818" alt="" data-muse-src="images/untitled-1.png?crc=4062233613" data-image-width="4" data-image-height="311"/>
+   </div>
+   <!-- /m_editable -->
+   <div class="verticalspacer" data-offset-top="821" data-content-above-spacer="820" data-content-below-spacer="79"></div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/u5854_states-m.png?crc=340937070" alt=""/>
+   <img class="preload" src="images/u5854_states-m_2x.png?crc=335412608" alt=""/>
+   <img class="preload" src="images/u5855_states-m.png?crc=3810113528" alt=""/>
+   <img class="preload" src="images/u5855_states-m_2x.png?crc=467593399" alt=""/>
+   <img class="preload" src="images/u5856_states-m.png?crc=3992291172" alt=""/>
+   <img class="preload" src="images/u5856_states-m_2x.png?crc=3995353176" alt=""/>
+   <img class="preload" src="images/u5857_states-m.png?crc=521514004" alt=""/>
+   <img class="preload" src="images/u5857_states-m_2x.png?crc=513838102" alt=""/>
+   <img class="preload" src="images/u6037_states-r.png?crc=173725888" alt=""/>
+   <img class="preload" src="images/u6037_states-r_2x.png?crc=4247714898" alt=""/>
+   <img class="preload" src="images/u6037_states-m.png?crc=173725888" alt=""/>
+   <img class="preload" src="images/u6037_states-m_2x.png?crc=4247714898" alt=""/>
+  </div>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
+16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
+l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
+f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+window.Muse.assets.check($);/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.detectScreenResolution();/* HiDPI screens */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+}catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
+
+</script>
+  <!-- RequireJS script -->
+  <script src="scripts/require.js?crc=4159430777" type="text/javascript" async data-main="scripts/museconfig.js?crc=172512987" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+   </body>
+</html>
